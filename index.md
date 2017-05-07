@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+## Welcome to the W1SE network
 
-You can use the [editor on GitHub](https://github.com/W1SE/W1SE.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+W1SE consists of unashamed IT-geeks who have grown up with web technology and information security since it was in its infancy.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Our expertise goes beyond that and includes years of experience in security, development, design, support, marketing, SEO, copywriting and management.
 
-### Markdown
+It is this combination of skills and experience that we put at the disposal of our clients and the results speak for themselves.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+W1SE span from Australia to Sweden and have worked with clients in over 10 countries.
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/W1SE/W1SE.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
